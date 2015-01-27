@@ -11,9 +11,9 @@ Package.onUse(function(api) {
     api.versionsFrom("METEOR@0.9.1.1");
 
     api.add_files([
-        'lib/dist/ramda.js',
+        'ramda/dist/ramda.js',
     ], 'client');
 
     if(api.export)
-        api.export('ramda');
+        api.export('R');
 })
