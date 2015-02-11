@@ -1,7 +1,7 @@
 Package.describe({
     name: 'kevohagan:ramda',
     summary: 'A practical functional library for Javascript programmers.',
-    version: '0.9.1.1',
+    version: '0.9.1_1',
     git: 'https://github.com/kevohagan/meteor-ramda.git',
     upstreamVersion: "0.1.0"
 });
